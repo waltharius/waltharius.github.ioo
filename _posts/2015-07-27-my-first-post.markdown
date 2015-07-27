@@ -2,7 +2,7 @@
 layout: post
 title: My First Post
 date: {}
-published: false
+published: true
 ---
 
 ##Jakiś tytuł
